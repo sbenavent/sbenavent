@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sbenavent, or Sergio Benavent.
+- 👋 Hi, I’m @sbenavent, Sergio Benavent Marín and I'm a 25 yo Junior Developer.
 - 👀 I’m interested in Python and C# for programming but I also like videogame developement.
 - 🌱 I’m currently learning Cloud Computing Developement for Microsoft Azure on EOI. 
 - 💞️ I’m looking to collaborate on any Python or C# projects.
